@@ -54,6 +54,8 @@ O fichamento também inclui o artigo de SANTOS e BORGES (2026), *Infraestrutura 
 .
 ├── README.md                              # este arquivo
 ├── ENUNCIADO.md                           # instruções originais do trabalho (professora)
+├── TI VERDE.pptx                          # apresentação em PowerPoint
+├── TI VERDE.docx                          # artigo em Word
 └── Documentos/
     ├── 00_LEIA-ME.md                      # identificação do grupo e ordem das etapas
     ├── 01_tema.md                         # Etapa 1: tema e delimitação
@@ -71,4 +73,4 @@ O trabalho seguiu o fluxo proposto no `ENUNCIADO.md`: cada etapa foi preenchida 
 
 ## Status
 
-Completo.
+Concluído.
